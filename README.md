@@ -1,4 +1,4 @@
-# co09d4a4283b75bbdf8d61d36
+# Restaurant Ordering App
 
 Quick start:
 
